@@ -3,9 +3,8 @@
   <defs>
 
     <linearGradient id="roseGold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#fff4ef"/>
-      <stop offset="20%" stop-color="#ffd8ca"/>
-      <stop offset="45%" stop-color="#efb29d"/>
+      <stop offset="0%" stop-color="#ffd8ca"/>
+      <stop offset="50%" stop-color="#efb29d"/>
       <stop offset="75%" stop-color="#d48972"/>
       <stop offset="100%" stop-color="#b56a57"/>
     </linearGradient>
@@ -23,7 +22,7 @@
   <!-- EG CENTRALIZADO -->
   <text
     x="50%"
-    y="75%"
+    y="70%"
     text-anchor="middle"    
     dominant-baseline="middle"
     font-size="750"
